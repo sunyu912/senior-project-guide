@@ -1,4 +1,4 @@
-# senior-project-guide
+# About Senior Project 
 
 ## The Goal of a Senior Project
 
